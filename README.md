@@ -1,6 +1,6 @@
 # Trabalho de MC322
 
-Link para o binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gab-mafra/trabalho-mc322/master?urlpath=lab)
+Link para o binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gab-mafra/trabalho-mc322-parte-1/master?urlpath=lab)
 
 Esse e o nosso trabalho final de MC322 - Programação Orientada a Objetos, ele consiste em uma interação de um médico e um paciente,
 de tal forma que o médico, conhecendo as possíveis doenças e seus possíveis sintomas, possa realizar o diagnóstico certeiro desse paciente.

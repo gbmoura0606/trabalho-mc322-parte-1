@@ -15,6 +15,6 @@ O objetivo do componente é criar um gráfico com a frequência de doenças diag
 Interface:
 */
 public interface Grafico {
-    public void criarGraficoDoencas(String dataSource, Patient[] pacientes); //cria um grafico com as frequencias das doenças
-    public void criarGraficoSintomas(String dataSource, Patient[] pacientes); //cria um grafico com as frequencias das sintomas
+    public void criarGraficoDoencas(String dataSource, Patient[] paciente); //cria um grafico com as frequencias das doenças
+    public void criarGraficoSintomas(String dataSource, Patient[] paciente); //cria um grafico com as frequencias das sintomas
 }
